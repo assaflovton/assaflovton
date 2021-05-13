@@ -1,1 +1,3 @@
 # assaflovton
+Hello and Welcome to my GitHub account, here you can find most of the programming projects for my CS degree.
+Hopefully I will help someone...
