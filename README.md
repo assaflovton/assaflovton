@@ -26,8 +26,8 @@ Hopefully I will help someone...
 
 ### Third semester:
 - 236319 Programming Languages
-  - [236319-ProgrammingLanguagesHW1](https://github.com/assaflovton/236319-ProgrammingLanguagesHW1)
-  - [236319-ProgrammingLanguagesHW2](https://github.com/assaflovton/236319-ProgrammingLanguagesHW2)
+  - [236319-ProgrammingLanguagesHW1](https://github.com/assaflovton/236319-ProgrammingLanguagesHW1) 
+  - [236319-ProgrammingLanguagesHW2](https://github.com/assaflovton/236319-ProgrammingLanguagesHW2) 
   - [236319-ProgrammingLanguagesHW3](https://github.com/assaflovton/236319-ProgrammingLanguagesHW3)
   - [236319-ProgrammingLanguagesHW4](https://github.com/assaflovton/236319-ProgrammingLanguagesHW4)
   - [236319-ProgrammingLanguagesHW5](https://github.com/assaflovton/236319-ProgrammingLanguagesHW5)
@@ -35,7 +35,7 @@ Hopefully I will help someone...
 
 ### Fourth semester:
 - 234123 - Operating Systems
-  - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1)
+  - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) Shell, jobs list, signals
   - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2)
   - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3)
   - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4)
@@ -54,6 +54,6 @@ Hopefully I will help someone...
   - [FinalProject](https://github.com/assaflovton/IntroToBioInformaticsHW1)
 
 Summer semester:
-- IoT project
+- 236332 - IoT project
   - [GaitAnalysis - still working on it](https://github.com/assaflovton/GaitAnalysis)
 
