@@ -39,10 +39,10 @@ Hopefully, I'll help someone...
 
 - 234123 - Operating Systems
 
-  - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) - Shell, jobs list, signals
-  - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2) - Adding a system call
-  - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3) - Multi-threaded server using condition variables
-  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Memory allocation (programming malloc)
+  - [234123-OperatingSystemsHW1](https://github.com/assaflovton/234123-OperatingSystemsHW1) - Shell, jobs list, signals
+  - [234123-OperatingSystemsHW2](https://github.com/assaflovton/234123-OperatingSystemsHW2) - Adding a system call
+  - [234123-OperatingSystemsHW3](https://github.com/assaflovton/234123-OperatingSystemsHW3) - Multi-threaded server using condition variables
+  - [234123-OperatingSystemsHW4](https://github.com/assaflovton/234123-OperatingSystemsHW4) - Memory allocation (programming malloc)
   
 - 234118 - Computer Organization And Programming (Atam)
 
@@ -53,11 +53,11 @@ Hopefully, I'll help someone...
 
 - 236523 - Introduction to Bioinformatics
 
-  - [IntroToBioInformaticsHW1](https://github.com/assaflovton/IntroToBioInformaticsHW1)
-  - [IntroToBioInformaticsHW2](https://github.com/assaflovton/IntroToBioInformaticsHW2)
-  - [IntroToBioInformaticsHW3](https://github.com/assaflovton/IntroToBioInformaticsHW3)
-  - [IntroToBioInformaticsHW4](https://github.com/assaflovton/IntroToBioInformaticsHW4)
-  - [FinalProject](https://github.com/assaflovton/IntroToBioInformaticsHW1)
+  - [236523-IntroToBioInformaticsHW1](https://github.com/assaflovton/236523-IntroToBioInformaticsHW1)
+  - [236523-IntroToBioInformaticsHW2](https://github.com/assaflovton/236523-IntroToBioInformaticsHW2)
+  - [236523-IntroToBioInformaticsHW3](https://github.com/assaflovton/236523-IntroToBioInformaticsHW3)
+  - [236523-IntroToBioInformaticsHW4](https://github.com/assaflovton/236523-IntroToBioInformaticsHW4)
+  - [236523-FinalProject](https://github.com/assaflovton/236523-IntroToBioInformaticsHW1)
 
 ### Summer semester:
 
