@@ -35,7 +35,7 @@ Hopefully I will help someone...
 
 ### Fourth semester:
 - 234123 - Operating Systems
-  - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) Shell, jobs list, signals
+  - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) - Shell, jobs list, signals
   - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2)
   - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3)
   - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4)
