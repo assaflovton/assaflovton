@@ -3,7 +3,7 @@ Hello and Welcome to my GitHub account, here you can find most of the programmin
 
 Hopefully I will help someone...
 
-# Current most interesting project - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git)
+## Current most interesting project - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git)
 
 First semester:
 
