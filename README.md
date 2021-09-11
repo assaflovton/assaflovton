@@ -7,25 +7,25 @@ Hopefully I will help someone...
 
 First semester:
 
-234114 - Introduction to Computer Science (IntroToCS)
+    234114 - Introduction to Computer Science (IntroToCS)
 
 Second semester:
 
-234124	Introduction to Systems Programming (Matam)
+    234124	Introduction to Systems Programming (Matam)
 
 Third semester:
 
-236319	Programming Languages 
+    236319	Programming Languages 
 
 Fourth semester:
 
-234123 - Operating Systems 
+    234123 - Operating Systems 
 
-234118 - Computer Organization And Programming (Atam)
+    234118 - Computer Organization And Programming (Atam)
 
-236523 - Introduction to Bioinformatics
+    236523 - Introduction to Bioinformatics
 
 Summer semester:
 
-IoT project - still working on it
+    IoT project - still working on it
 
