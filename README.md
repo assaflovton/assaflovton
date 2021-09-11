@@ -10,13 +10,13 @@ Hopefully I will help someone...
 ## Table of contents
 
 
-First semester:
+### First semester:
 
 - 234114 - Introduction to Computer Science (IntroToCS)
 
   - [234114-IntroToCSHW3](https://github.com/assaflovton/234114-IntroToCSHW3)
 
-Second semester:
+### Second semester:
 
 - 234124 Introduction to Systems Programming (Matam)
   - [234124-MatamHW1](https://github.com/assaflovton/234124-MatamHW1)
@@ -24,7 +24,7 @@ Second semester:
   - [234124-MatamHW3](https://github.com/assaflovton/234124-MatamHW3)
   - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject)
 
-Third semester:
+### Third semester:
 - 236319 Programming Languages
   - [236319-ProgrammingLanguagesHW1](https://github.com/assaflovton/236319-ProgrammingLanguagesHW1)
   - [236319-ProgrammingLanguagesHW2](https://github.com/assaflovton/236319-ProgrammingLanguagesHW2)
@@ -33,7 +33,7 @@ Third semester:
   - [236319-ProgrammingLanguagesHW5](https://github.com/assaflovton/236319-ProgrammingLanguagesHW5)
   - [236319-ProgrammingLanguagesHW6](https://github.com/assaflovton/236319-ProgrammingLanguagesHW6)
 
-Fourth semester:
+### Fourth semester:
 - 234123 - Operating Systems
   - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1)
   - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2)
