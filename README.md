@@ -26,6 +26,7 @@ Hopefully I will help someone...
   - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Too vast to fit in a sentance:)
 
 ### Third semester:
+
 - 236319 Programming Languages
 
   - [236319-ProgrammingLanguagesHW1](https://github.com/assaflovton/236319-ProgrammingLanguagesHW1) 
@@ -36,19 +37,20 @@ Hopefully I will help someone...
   - [236319-ProgrammingLanguagesHW6](https://github.com/assaflovton/236319-ProgrammingLanguagesHW6)
 
 ### Fourth semester:
+
 - 234123 - Operating Systems
 
   - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) - Shell, jobs list, signals
-  - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2)
-  - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3)
-  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4)
+  - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2) - Adding a system call
+  - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3) - Multi-threaded server using condition variables
+  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Progaming memory allocation (malloc)
   
 - 234118 - Computer Organization And Programming (Atam)
 
-  - [234118-ATAM_HW1](https://github.com/assaflovton/234118-ATAM_HW1)
-  - [234118-ATAM_HW2](https://github.com/assaflovton/234118-ATAM_HW2)
-  - [234118-ATAM_HW3](https://github.com/assaflovton/234118-ATAM_HW3)
-  - [234118-ATAM_HW4](https://github.com/assaflovton/234118-ATAM_HW4)
+  - [234118-ATAM_HW1](https://github.com/assaflovton/234118-ATAM_HW1) - Assmbly basic questions
+  - [234118-ATAM_HW2](https://github.com/assaflovton/234118-ATAM_HW2) - Assmbly matrix mutilation, intterupts 
+  - [234118-ATAM_HW3](https://github.com/assaflovton/234118-ATAM_HW3) - Hacking readelf, Linker scripts
+  - [234118-ATAM_HW4](https://github.com/assaflovton/234118-ATAM_HW4) - Building a debugger
 
 - 236523 - Introduction to Bioinformatics
 
