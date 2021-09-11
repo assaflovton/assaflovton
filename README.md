@@ -49,6 +49,7 @@ Fourth semester:
   -[IntroToBioInformaticsHW4](https://github.com/assaflovton/IntroToBioInformaticsHW4)
   -[FinalProject](https://github.com/assaflovton/IntroToBioInformaticsHW1)
 
-- Summer semester:
-IoT project GaitAnalysis - still working on it (https://github.com/assaflovton/GaitAnalysis)
+Summer semester:
+- IoT project
+  -  [GaitAnalysis - still working on it](https://github.com/assaflovton/GaitAnalysis)
 
