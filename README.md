@@ -1,4 +1,4 @@
-# assaflovton
+
 Hello and Welcome, here you can find most of the programming projects for my CS degree.
 
 Hopefully, I'll help someone...
@@ -6,8 +6,7 @@ Hopefully, I'll help someone...
 ## Current most interesting projects - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git) 
 
 
-
-### Table of contents
+# Table of contents
 
 
 ### First semester:
