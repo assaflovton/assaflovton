@@ -43,7 +43,7 @@ Hopefully I will help someone...
   - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) - Shell, jobs list, signals
   - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2) - Adding a system call
   - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3) - Multi-threaded server using condition variables
-  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Progaming memory allocation (malloc)
+  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Memory allocation (progaming malloc)
   
 - 234118 - Computer Organization And Programming (Atam)
 
