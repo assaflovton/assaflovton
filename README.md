@@ -20,12 +20,18 @@ Second semester:
   - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject)
 
 Third semester:
-- 236319 Programming Languages 
+- 236319 Programming Languages
+
   -[236319-ProgrammingLanguagesHW1](https://github.com/assaflovton/236319-ProgrammingLanguagesHW1)
+  
   -[236319-ProgrammingLanguagesHW2](https://github.com/assaflovton/236319-ProgrammingLanguagesHW2)
+  
   -[236319-ProgrammingLanguagesHW3](https://github.com/assaflovton/236319-ProgrammingLanguagesHW3)
+  
   -[236319-ProgrammingLanguagesHW4](https://github.com/assaflovton/236319-ProgrammingLanguagesHW4)
+  
   -[236319-ProgrammingLanguagesHW5](https://github.com/assaflovton/236319-ProgrammingLanguagesHW5)
+  
   -[236319-ProgrammingLanguagesHW6](https://github.com/assaflovton/236319-ProgrammingLanguagesHW6)
 
 Fourth semester:
