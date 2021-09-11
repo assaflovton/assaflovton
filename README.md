@@ -57,7 +57,7 @@ Hopefully, I'll help someone...
   - [236523-IntroToBioInformaticsHW2](https://github.com/assaflovton/236523-IntroToBioInformaticsHW2)
   - [236523-IntroToBioInformaticsHW3](https://github.com/assaflovton/236523-IntroToBioInformaticsHW3)
   - [236523-IntroToBioInformaticsHW4](https://github.com/assaflovton/236523-IntroToBioInformaticsHW4)
-  - [236523-FinalProject](https://github.com/assaflovton/236523-IntroToBioInformaticsHW1)
+  - [236523-FinalProject](https://github.com/assaflovton/BioinformaticsFinalProject-GeneExpressionAnalysisOfTNBCNon-TNBCAndHER2BreastCancerTypes)
 
 ### Summer semester:
 
