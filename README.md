@@ -1,7 +1,7 @@
 # assaflovton
 Hello and Welcome to my GitHub account, here you can find most of the programming projects for my CS degree.
 
-Hopefully I will help someone...
+Hopefully, I will help someone...
 
 ## Current most interesting projects - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git) 
 
@@ -23,7 +23,7 @@ Hopefully I will help someone...
   - [234124-MatamHW1](https://github.com/assaflovton/234124-MatamHW1) - Map (Abstract data type implementation) , Election system implementation 
   - [234124-MatamHW2](https://github.com/assaflovton/234124-MatamHW2) - Building python interface for C module using SWIG
   - [234124-MatamHW3](https://github.com/assaflovton/234124-MatamHW3) - Generics, operator overloading, exceptions, polymorphism  
-  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Too vast to fit in a sentance:)
+  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Too vast to fit in a sentence:)
 
 ### Third semester:
 
@@ -43,12 +43,12 @@ Hopefully I will help someone...
   - [OperatingSystemsHW1](https://github.com/assaflovton/OperatingSystemsHW1) - Shell, jobs list, signals
   - [OperatingSystemsHW2](https://github.com/assaflovton/OperatingSystemsHW2) - Adding a system call
   - [OperatingSystemsHW3](https://github.com/assaflovton/OperatingSystemsHW3) - Multi-threaded server using condition variables
-  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Memory allocation (progaming malloc)
+  - [OperatingSystemsHW4](https://github.com/assaflovton/OperatingSystemsHW4) - Memory allocation (programming malloc)
   
 - 234118 - Computer Organization And Programming (Atam)
 
-  - [234118-ATAM_HW1](https://github.com/assaflovton/234118-ATAM_HW1) - Assmbly basic questions
-  - [234118-ATAM_HW2](https://github.com/assaflovton/234118-ATAM_HW2) - Assmbly matrix mutilation, intterupts 
+  - [234118-ATAM_HW1](https://github.com/assaflovton/234118-ATAM_HW1) - Assembly basic questions
+  - [234118-ATAM_HW2](https://github.com/assaflovton/234118-ATAM_HW2) - Assmebly matrix mutilation, interrupts 
   - [234118-ATAM_HW3](https://github.com/assaflovton/234118-ATAM_HW3) - Hacking readelf, Linker scripts
   - [234118-ATAM_HW4](https://github.com/assaflovton/234118-ATAM_HW4) - Building a debugger
 
