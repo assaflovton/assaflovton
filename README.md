@@ -12,10 +12,10 @@ First semester:
 
 Second semester:
 234124	Introduction to Systems Programming (Matam)
-    - [234124-MatamHW1] (https://github.com/assaflovton/234124-MatamHW1)
-    - 234124-MatamHW2 (https://github.com/assaflovton/234124-MatamHW2)
-    - 234124-MatamHW3 (https://github.com/assaflovton/234124-MatamHW3)
-    - 234124-MatamFinalProject (https://github.com/assaflovton/234124-MatamFinalProject)
+- [234124-MatamHW1] (https://github.com/assaflovton/234124-MatamHW1)
+- 234124-MatamHW2 (https://github.com/assaflovton/234124-MatamHW2)
+- 234124-MatamHW3 (https://github.com/assaflovton/234124-MatamHW3)
+- 234124-MatamFinalProject (https://github.com/assaflovton/234124-MatamFinalProject)
 
 Third semester:
 
