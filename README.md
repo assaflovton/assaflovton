@@ -7,7 +7,7 @@ Hopefully I will help someone...
 
 First semester:
 
--234114 - Introduction to Computer Science (IntroToCS)
+- 234114 - Introduction to Computer Science (IntroToCS)
 
   - [234114-IntroToCSHW3](https://github.com/assaflovton/234114-IntroToCSHW3)
 
