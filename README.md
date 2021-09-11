@@ -3,7 +3,7 @@ Hello and Welcome to my GitHub account, here you can find most of the programmin
 
 Hopefully I will help someone...
 
-## Current most interesting project - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git)
+## Current most interesting projects - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git) 
 
 
 
@@ -14,15 +14,15 @@ Hopefully I will help someone...
 
 - 234114 - Introduction to Computer Science (IntroToCS)
 
-  - [234114-IntroToCSHW3](https://github.com/assaflovton/234114-IntroToCSHW3)
+  - [234114-IntroToCSHW3](https://github.com/assaflovton/234114-IntroToCSHW3) - Avoidance Tic-Tac-Toe
 
 ### Second semester:
 
 - 234124 Introduction to Systems Programming (Matam)
-  - [234124-MatamHW1](https://github.com/assaflovton/234124-MatamHW1)
-  - [234124-MatamHW2](https://github.com/assaflovton/234124-MatamHW2)
-  - [234124-MatamHW3](https://github.com/assaflovton/234124-MatamHW3)
-  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject)
+  - [234124-MatamHW1](https://github.com/assaflovton/234124-MatamHW1) - Map (Abstract data type implementation) , Election system implementation 
+  - [234124-MatamHW2](https://github.com/assaflovton/234124-MatamHW2) - Building python interface for C module using SWIG
+  - [234124-MatamHW3](https://github.com/assaflovton/234124-MatamHW3) - Generics, operator overloading, exceptions, polymorphism  
+  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Too vast to fit in a sentance:)
 
 ### Third semester:
 - 236319 Programming Languages
