@@ -3,7 +3,7 @@ Hello and Welcome, here you can find most of the programming projects for my CS 
 
 Hopefully, I'll help someone...
 
-### In my opinion the most interesting project is - [Graphs Calculator](https://github.com/assaflovton/234124-MatamFinalProject.git) 
+### In my opinion the most interesting project is - [Gait Analysis- IoT project](https://github.com/assaflovton/IoT-project-Gait-analysis) 
 
 
 # Table of contents
@@ -63,5 +63,16 @@ Hopefully, I'll help someone...
 
 - 236332 - IoT project
 
-  - [GaitAnalysis - still working on it](https://github.com/assaflovton/GaitAnalysis)
+  - [IoT project - gait analysis](https://github.com/assaflovton/IoT-project-Gait-analysis)
+
+### Fourth semester:
+
+-  - Machine Lerning
+
+  - [HW1]() - 
+  - [HW1]() - 
+  - [HW1]() - 
+  
+
+
 
