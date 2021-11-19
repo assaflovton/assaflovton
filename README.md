@@ -65,14 +65,20 @@ Hopefully, I'll help someone...
 
   - [IoT project - gait analysis](https://github.com/assaflovton/IoT-project-Gait-analysis)
 
-### Fourth semester:
+### Fifth semester:
 
--  - Machine Lerning
+- 236756 - Machine Lerning
 
-  - [HW1]() - 
-  - [HW1]() - 
-  - [HW1]() - 
+  - [HW1-Short](https://github.com/assaflovton/236781-IntroToDeepLearningHW1-Short) - 
+  - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - 
+  - [HW2-Short]() - 
+  - [HW2]() - 
   
+- 236781 - Deep Lerning
 
+  - [HW1](https://github.com/assaflovton/236781-IntroToDeepLearningHW1) -  
+  - [HW2]() - 
+  - [HW3]() - 
+  
 
 
