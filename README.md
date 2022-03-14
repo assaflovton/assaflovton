@@ -85,6 +85,7 @@ Hopefully, I'll help someone...
   - [HW1](https://github.com/assaflovton/236781-IntroToDeepLearningHW1) -  
   - [HW2](https://github.com/assaflovton/236781-IntroToDeepLearningHW2) - 
   - [HW3](https://github.com/assaflovton/236781-IntroToDeepLearningHW3) - 
+  - [HW4](https://github.com/assaflovton/236781-IntroToDeepLearningHW4) -
   
 
 
