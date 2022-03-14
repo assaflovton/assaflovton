@@ -69,7 +69,7 @@ Hopefully, I'll help someone...
 
 - 236756 - Machine learning
 
-  - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - 
+  - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - Data preparation: data imputation and cleaning, outlier detection, univariate feature exploration, missing data, feature selection
   - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - 
   - [HW3](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - 
   
