@@ -26,7 +26,7 @@ Also cool to look at:
   - [234124-MatamHW1](https://github.com/assaflovton/234124-MatamHW1) - Map (Abstract data type implementation) , Election system implementation 
   - [234124-MatamHW2](https://github.com/assaflovton/234124-MatamHW2) - Building python interface for C module using SWIG
   - [234124-MatamHW3](https://github.com/assaflovton/234124-MatamHW3) - Generics, operator overloading, exceptions, polymorphism  
-  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Too vast to fit in a sentence:)
+  - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Graphs calculator - Too vast to fit in a sentence:)
 
 ### Third semester:
 
