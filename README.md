@@ -4,6 +4,11 @@
 
 # In my opinion the most interesting project is - [Gait Analysis- IoT project](https://github.com/assaflovton/IoT-project-Gait-analysis) 
 
+Also cool to look at:
+[234124-MatamFinalProject-graphs calculator](https://github.com/assaflovton/234124-MatamFinalProject)
+[236523-FinalProjectInBioinformatics-gene expression analysis](https://github.com/assaflovton/BioinformaticsFinalProject-GeneExpressionAnalysisOfTNBCNon-TNBCAndHER2BreastCancerTypes)
+[236756-MachineLearningHW2- k-nearest neighbors,decision trees, SVM using SGD and feature mapping](https://github.com/assaflovton/236756-IntroToMachineLearningHW2)
+[236756-MachineLearningHW3- Linear regression implementation, evaluation and baseline, Ridge linear regression, lasso linear regression, polynomial fitting](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - 
 
 # Table of contents
 
