@@ -67,18 +67,17 @@ Hopefully, I'll help someone...
 
 ### Fifth semester:
 
-- 236756 - Machine Lerning
+- 236756 - Machine learning
 
-  - [HW1-Short](https://github.com/assaflovton/236781-IntroToDeepLearningHW1-Short) - 
   - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - 
-  - [HW2-Short]() - 
-  - [HW2]() - 
+  - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - 
+  - [HW3](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - 
   
-- 236781 - Deep Lerning
+- 236781 - Deep learning
 
   - [HW1](https://github.com/assaflovton/236781-IntroToDeepLearningHW1) -  
-  - [HW2]() - 
-  - [HW3]() - 
+  - [HW2](https://github.com/assaflovton/236781-IntroToDeepLearningHW2) - 
+  - [HW3](https://github.com/assaflovton/236781-IntroToDeepLearningHW3) - 
   
 
 
