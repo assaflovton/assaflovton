@@ -7,7 +7,7 @@
 Also cool to look at:
 - [234124-MatamFinalProject](https://github.com/assaflovton/234124-MatamFinalProject) - Graphs calculator
 - [236756-MachineLearningHW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - K-nearest neighbors, decision trees, SVM using SGD and feature mapping
-- [236756-MachineLearningHW3](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - Linear regression implementation, evaluation and baseline, Ridge linear regression, lasso linear regression, polynomial fitting
+- [236756-MachineLearningHW3](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - Linear regression implementation, evaluation and baseline, Ridge linear regression, lasso linear regression and polynomial fitting
 - [236523-FinalProjectInBioinformatics](https://github.com/assaflovton/BioinformaticsFinalProject-GeneExpressionAnalysisOfTNBCNon-TNBCAndHER2BreastCancerTypes) - Gene expression analysis
 
 # Table of contents
