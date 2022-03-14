@@ -1,7 +1,8 @@
 
-Hello and Welcome, here you can find most of the programming projects for my CS degree.
+# Hello and Welcome, here you can find most of the programming projects for my CS degree.
 
-Hopefully, I'll help someone...
+# Hopefully, I'll help someone...
+
 
 ### In my opinion the most interesting project is - [Gait Analysis- IoT project](https://github.com/assaflovton/IoT-project-Gait-analysis) 
 
@@ -82,10 +83,10 @@ Hopefully, I'll help someone...
   
 - 236781 - Deep learning
 
-  - [HW1](https://github.com/assaflovton/236781-IntroToDeepLearningHW1) -  
-  - [HW2](https://github.com/assaflovton/236781-IntroToDeepLearningHW2) - 
-  - [HW3](https://github.com/assaflovton/236781-IntroToDeepLearningHW3) - 
-  - [HW4](https://github.com/assaflovton/236781-IntroToDeepLearningHW4) -
+  - [HW1](https://github.com/assaflovton/236781-IntroToDeepLearningHW1)   
+  - [HW2](https://github.com/assaflovton/236781-IntroToDeepLearningHW2)  
+  - [HW3](https://github.com/assaflovton/236781-IntroToDeepLearningHW3) 
+  - [HW4](https://github.com/assaflovton/236781-IntroToDeepLearningHW4) 
   
 
 
