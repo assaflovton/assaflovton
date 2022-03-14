@@ -1,5 +1,5 @@
 
-### Hello and Welcome, here you can find most of the programming projects for my CS degree. Hopefully, I'll help someone...
+### Hello and Welcome, here you can find most of the programming projects for my CS degree. Hopefully, I'll help you...
 
 
 # In my opinion the most interesting project is - [Gait Analysis- IoT project](https://github.com/assaflovton/IoT-project-Gait-analysis) 
