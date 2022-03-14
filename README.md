@@ -70,7 +70,7 @@ Hopefully, I'll help someone...
 - 236756 - Machine learning
 
   - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - Data preparation: data imputation and cleaning, outlier detection, univariate feature exploration, missing data, feature selection
-  - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - Part 1, part 2, part 3:
+  - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - Part 1, Part 2 and Part 3:
 
         Part 1: k-nearest neighbors model implementation and selection, data normalization, model selection error anaylsis.
 
