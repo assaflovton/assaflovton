@@ -74,13 +74,13 @@ Also cool to look at:
 - 236756 - Machine learning
 
   - [HW1](https://github.com/assaflovton/236756-IntroToMachineLearningHW1) - Data preparation: data imputation and cleaning, outlier detection, univariate feature exploration, missing data, feature selection
-  - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - Part 1, Part 2 and Part 3:
+  - [HW2](https://github.com/assaflovton/236756-IntroToMachineLearningHW2) - Includes 3 parts:
 
-        Part 1: k-nearest neighbors model implementation and selection, data normalization, model selection error anaylsis.
+    Part 1: k-nearest neighbors model implementation and selection, data normalization, model selection error anaylsis.
 
-        Part 2: decision trees (model visualization and selection)
+    Part 2: decision trees (model visualization and selection)
 
-        Part 3: SVM implementation and optimization, solving SVM problems using stochastic gradient descent SGD, applying a feature mapping
+    Part 3: SVM implementation and optimization, solving SVM problems using stochastic gradient descent SGD, applying a feature mapping
         
   - [HW3](https://github.com/assaflovton/236756-IntroToMachineLearningHW3) - Linear regression implementation, evaluation and baseline, Ridge linear regression, lasso linear regression, polynomial fitting, testing the models
   
